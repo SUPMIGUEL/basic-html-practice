@@ -1,0 +1,32 @@
+pre{
+    font-family: "Comic Sans MS";
+    line-height: 7pt 
+}
+h1{
+    font-family: "Comic Sans MS";
+    font-size: 35px; 
+}
+img{
+	width: 500px; height: 250px;
+	position: relative;
+    top: 20%;
+    left: 12%;
+}
+p{
+	position: absolute;
+	left: 180px;
+}
+input{
+	line-height: 7px;
+}
+table{
+	font-family: "Comic Sans MS";
+    line-height: 25pt;
+    border-right-color: x000000;
+}
+tbody tr:nth-child(odd) {
+  background: #f0f0f2;		/* Color de fondo en una renglón y otro no */
+}
+thead{
+	background: #B4B4B4;
+}
